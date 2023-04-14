@@ -5,9 +5,7 @@
 
 - 🔥 Sênior Fullstack Developer
 
-- 🔭 I’m currently working at Avanade Brasil (https://github.com/Avanade)
-
-- 💬 Ask me about **C#, SQL, MongoDB, Angular 2+, Node.JS**
+- 💬 Ask me about **C#, SQL, MongoDB, Angular 2+, Node.JS, Azure**
 
 - ⚡ Fun fact **Gamer 🎮**
 
